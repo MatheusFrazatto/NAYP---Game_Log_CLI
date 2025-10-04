@@ -2,6 +2,8 @@
 
 ![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=java)
 ![Maven](https://img.shields.io/badge/Maven-3.8+-red?style=for-the-badge&logo=apache-maven)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![RAWG API](https://img.shields.io/badge/RAWG_API-000000?style=for-the-badge)
 
 ## 📖 About The Project
 
