@@ -7,7 +7,7 @@
 
 ## 📖 About The Project
 
-GameLog is a robust console application (CLI) developed in Java that functions as a "Pokédex" for your video game collection. The application allows you to search for any existing game using the public RAWG API, save its details to a local SQLite database, and manage your personal collection with different statuses.
+NAYP is a robust console application (CLI) developed in Java that functions as a "Pokédex" for your video game collection. The application allows you to search for any existing game using the public RAWG API, save its details to a local SQLite database, and manage your personal collection with different statuses.
 
 This project was built from scratch with a focus on software architecture best practices, including a layered structure, separation of concerns, and a robust data persistence layer.
 
